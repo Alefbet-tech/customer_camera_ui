@@ -1,3 +1,9 @@
+#Logs and screenshots
+*.png
+*.html
+*.xml
+*.exe
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
